@@ -1,4 +1,5 @@
 # AVA-dataset-downloader
+> This scripts is used to download Google AVA version2.1 dataset
 ## Requires
 >Windows OS, Python 3
 ## *You should make a new folder named 'video' and two subfolders named 'trainval' and 'test'*
